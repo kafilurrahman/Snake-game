@@ -1,1 +1,3 @@
-# Snake-game
+- Download the zip file and unzip it 
+- open unzip file in any editor like(code block, Visual Studio Code)
+- Run the code 
